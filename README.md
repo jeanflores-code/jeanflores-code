@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola! Soy Jean Flores 👋
 
-<!--
-**jeanflores-code/jeanflores-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Ingeniero de Software en formación | Freelance Developer
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil! Soy estudiante de 7mo nivel de Ingeniería de Software y desarrollador freelance. Me apasiona construir soluciones backend sólidas y aplicaciones móviles fluidas. Actualmente estoy puliendo mi portafolio profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+**Backend & Web:**
+* 🐍 **Python** (Mi lenguaje principal)
+* 🌐 **Django** (Desarrollo web robusto)
+
+**Móvil:**
+* 📱 **Flutter** (Apps multiplataforma)
+* 🎯 **Dart**
+
+**Intereses de aprendizaje:**
+* 🎮 **Game Development:** Explorando el mundo del desarrollo de videojuegos.
+
+---
+
+### ⚡ Datos curiosos
+
+* 🌱 Actualmente estoy reforzando mis habilidades para ofrecer servicios freelance de alta calidad.
+* 🚀 **Objetivo actual:** Crear proyectos que solucionen problemas reales.
+
+---
+
+### 📫 Contáctame
+
+[🚧 LinkedIn en mantenimiento...]
